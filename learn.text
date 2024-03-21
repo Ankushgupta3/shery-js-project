@@ -1,0 +1,14 @@
+// this project use in shery java script
+so let's start 
+
+
+phla kam hume apne frontend ko desgine krna hota hai ki wo kesa hoga or ushme kya kya hoga or ye hone ke bd hum css kause krke use decoreat krte hain phir sub kuch shi se krne ke bad use hota hai javascript mai sheryjs jishka use se hum image ko animat krte hain
+
+ishke liye hume npm ki wesite mai ajke search bar mai shery js ko search krke cdn uthate hain jishko phle css ki link ke upr link krte hain phir java script ki sari cdn utha kr hum rkh lete hain jise ki hum jo bhi birary use kre wo work kre phir hum java script mai code krte hain jishme gsap java script and logic ka aana behad jaruri hai.
+
+
+javascript mai use kese kren sheryjs ko 
+
+isko likhe ka tarika ye hai Shrey.imageEffect("#back",{style:5,debug:true,gooey:true})
+
+debug:true hume humare live browser mai ak fram dega jishme hum ishki shi se set kr skte hain or use copy krke past kr skte hain imageEffact ke liye....
